@@ -1,0 +1,36 @@
+_repo: Diligent-Dick-b-or-the-young-farmer_71493
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: Happy home stories for boys ; 1
+gutenberg_issued: '2023-08-26'
+identifiers:
+  gutenberg: '71493'
+  lccn: '2015656697'
+language: en
+pgterms:marc905: 20230825092659leslie
+pgterms:marc906: '1871'
+pgterms:marc907: US
+publication_note: '  $aBoston :$bYoung & Bartlett, $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Diligent Dick : $b or, the young farmer'
+url: http://www.gutenberg.org/ebooks/71493
